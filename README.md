@@ -1,0 +1,2 @@
+# .github
+SecondDNS organization profile
